@@ -1,0 +1,17 @@
+intermediate versions:
+think about the simpelest version of this project, and build from there:
+
+
+
+
+- divide the JS file into the following categories:
+	- variable declarations
+		* node declarations
+		* other global variables
+	- functions
+		* utility functions
+		* controller functions
+	- DOM generation
+--------------------------------------------------
+
+paste versions in bold, and think about which steps to take for each function
