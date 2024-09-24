@@ -12,6 +12,11 @@ think about the simpelest version of this project, and build from there:
 		* utility functions
 		* controller functions
 	- DOM generation
+		- node creation
+		- listeners
 --------------------------------------------------
 
-paste versions in bold, and think about which steps to take for each function
+paste versions in bold, and think about which steps to take for each function.
+only work out the first version completely, and only write 2 - 3 steps max for future versions
+
+
